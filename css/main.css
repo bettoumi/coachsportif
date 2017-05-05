@@ -163,15 +163,64 @@ textarea {
   {
      border-top: 18px dotted rgba(219, 134, 182, 0.46);
   }
+          
+   h1, .des
+  {
+
+     font-size: 2em;
+     font-family: 'Open Sans', sans-serif;
+     color: #373837;
+     font-style: italic;
+  }
   label
   {
 
-    font-family: "verdana", "arial";
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
 
   }
+ .nodisplay
+ {
+    display:none;
+
+ }
+
+         /* ==========================================================================
+                    css for tablette
+   ========================================================================== */
+
+
+@media(min-width:720px)  
+{
 
 
 
+
+
+
+} 
+
+
+
+
+/* ==========================================================================
+                         css for desktop
+   ========================================================================== */
+@media(min-width:1024px)  
+{
+  
+   .nodisplay
+ {
+    display:block;
+
+ }
+
+
+    
+} 
+
+
+         
 
 
 
