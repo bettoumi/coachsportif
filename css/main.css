@@ -139,8 +139,6 @@ textarea {
   {
     margin-top: 50px;
     margin:auto;
-     border-top: 16px dotted rgba(219, 134, 182, 0.46);
-
   }
 
   .description h2
@@ -160,6 +158,16 @@ textarea {
   {
     background-color:rgba(219, 134, 182, 0.46);
     color: black;
+  }
+   .description
+  {
+     border-top: 18px dotted rgba(219, 134, 182, 0.46);
+  }
+  label
+  {
+
+    font-family: "verdana", "arial";
+
   }
 
 
