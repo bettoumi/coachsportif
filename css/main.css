@@ -184,9 +184,46 @@ textarea {
     display:none;
 
  }
+            /*----------style for coach.html-----------*/
+
+ .titrecoach
+ {
+    border-bottom: 1px solid rgba(220, 220, 220, 0.46);
+    text-align: center;
+    font-weight: 100;
+    /*position: fixed;*/
+    padding: 7px 0;
+    width: 100%;
+    color:#373837;
+    height: 50px;
+    background-color: white;
+    opacity: 0.9;
+    z-index: 900;
+    left: 0;
+    font-size: 15px;
+    margin-top: 20px;
+}
+ .coachsect
+ {
+     background-color:   
+ }
+ .hr-coach
+ {
+    width: 40%;
+    margin-left: 0;
+    color: rgb(219,134,182);
+    background-color: rgb(219,134,182);
+ }
+ h4
+ {
+    color: rgb(219,134,182);
+    font-weight: bold;
+ }
+
 
          /* ==========================================================================
                     css for tablette
+
    ========================================================================== */
 
 
@@ -214,7 +251,14 @@ textarea {
     display:block;
 
  }
+  .titrecoach
+  {
+    font-size: 25px;
+    padding-top: 25px;
+    height:  70px;
+    word-spacing: 3em;
 
+      }
 
     
 } 
