@@ -221,6 +221,17 @@ textarea {
  }
 
 
+                          /*----------style for tarif.html-----------*/
+
+
+   ul
+   {
+      list-style-type: none;
+     list-style-image: url(../img/icone.jpg);
+
+   }                       
+   
+
          /* ==========================================================================
                     css for tablette
 
