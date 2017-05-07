@@ -172,6 +172,17 @@ textarea {
      color: #373837;
      font-style: italic;
   }
+
+                   /*---------------Style for contact.html-------------*/
+.contactsect
+{
+  
+    background-image: url(../img/img5.jpeg);
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100vh;
+}
+
   label
   {
 
@@ -203,10 +214,7 @@ textarea {
     font-size: 15px;
     margin-top: 20px;
 }
- .coachsect
- {
-     background-color:   
- }
+ 
  .hr-coach
  {
     width: 40%;
