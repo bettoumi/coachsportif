@@ -109,7 +109,7 @@ textarea {
   .principal
   {
     height:100vh;
-    background-image: url(../img/img4.jpg);
+    background-image: url(../img/imagesport1.jpg);
     background-size:cover;
     background-attachment: fixed;
   }
@@ -120,7 +120,6 @@ textarea {
     height: auto;
     margin-left: 10px;
     width: 35%;
-    /*background-color:rgb(255,255,255,0.5);*/
     text-align: center;
     top:100px;
     color: white;
@@ -131,6 +130,10 @@ textarea {
     font-size: 20px;
   }
 
+  .presentation h1
+  {
+    color:rgb(128,0,128);
+  }
                         /*--------------Style-description section-------------*/
  
 
@@ -177,11 +180,26 @@ textarea {
 .contactsect
 {
   
-    background-image: url(../img/img5.jpeg);
+    background-image: url(../img/imagemobile.jpg);
     background-attachment: fixed;
     background-size: cover;
     height: 100vh;
 }
+
+.des
+{
+  font-size: 15px;
+  font-weight: bold;
+  color: black;
+}
+
+.des strong
+{
+
+  color:rgb(128,0,128);
+  font-size: 18px;
+}
+
 
   label
   {
@@ -195,6 +213,13 @@ textarea {
     display:none;
 
  }
+
+
+  .formsect
+  {
+
+    background-color: black;
+  }
             /*----------style for coach.html-----------*/
 
  .titrecoach
@@ -280,7 +305,35 @@ textarea {
       }
 
     
+.principal
+  {
+    
+    background-image: url(../img/img4.jpg);
+    
+  }
+
+
+
+        /*----------Style  contact for desktop-------------*/
+.contactsect
+{
+  
+    background-image: url(../img/imagesport2.jpg);
+ 
 } 
+
+.des
+{
+  font-size: 20px;
+}  
+
+.des strong
+{
+
+  
+  font-size: 20px;
+}
+
 
 
          
